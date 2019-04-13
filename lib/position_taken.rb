@@ -5,3 +5,5 @@ def check_space
     
 end
 
+def position_taken(x, o)
+  
